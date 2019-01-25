@@ -1,1 +1,1 @@
-{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/Parrots/HDB_TEST/src/roles/MCR_again.hdbrole\"]}}"]},"mixinTypes":[]}
+{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/Parrots/HDB_TEST/src/roles/MCR_again.hdbrole\",\"/Parrots/HDB_TEST/src/roles/MCR.hdbrole\"]}}"]},"mixinTypes":[]}
